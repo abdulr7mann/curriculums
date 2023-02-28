@@ -1,7 +1,7 @@
-Beginner Level:
-Subject: Python Basics 
-Time needed to complete subject: 2-4 weeks 
-Time needed per day: 30 minutes reading, 1 hour watching videos, 30 minutes exercising
+- Beginner Level:
+- Subject: Python Basics 
+- Time needed to complete subject: 2-4 weeks 
+- Time needed per day: 30 minutes reading, 1 hour watching videos, 30 minutes exercising
 Reading:
 •	"Automate the Boring Stuff with Python" by Al Sweigart (https://automatetheboringstuff.com/)
 •	"Python Crash Course" by Eric Matthes (https://ehmatthes.github.io/pcc_2e/)
